@@ -1,0 +1,2 @@
+- WHEN the session starts THE SYSTEM SHALL configure 48 kHz measurement-mode audio or report why it cannot.
+- WHILE running THE SYSTEM SHALL never allocate in the audio render callback.

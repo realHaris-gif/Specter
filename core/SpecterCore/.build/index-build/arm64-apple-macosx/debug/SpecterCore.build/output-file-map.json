@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/primary.swiftdeps"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator.dia"  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp.dia"  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter.dia"  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/FFT.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT.dia"  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/SignalPipeline.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline.dia"  }
+}

@@ -1,0 +1,3 @@
+module SpecterCore {
+    header "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/include/SpecterCore-Swift.h"
+}

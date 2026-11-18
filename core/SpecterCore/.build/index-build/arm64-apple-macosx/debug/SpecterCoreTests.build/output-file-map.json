@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/primary.swiftdeps"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/GoldenVectorTests.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests.dia"  },
+  "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift": {
+    "dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests.d",
+    "object": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests.swift.o",
+    "swiftmodule": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests.swiftdeps",
+    "diagnostics": "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests.dia"  }
+}

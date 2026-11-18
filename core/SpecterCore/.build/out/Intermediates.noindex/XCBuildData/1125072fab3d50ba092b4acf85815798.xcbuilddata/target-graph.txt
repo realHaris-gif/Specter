@@ -1,0 +1,11 @@
+Target dependency graph (4 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'SpecterCoreTests-product' in project 'SpecterCore'
+➜ Dependency on target 'SpecterCoreTests-product' in project 'SpecterCore' via transitive dependency through 'SpecterCoreTests-test-runner'
+➜ Explicit dependency on target 'SpecterCore-product' in project 'SpecterCore'
+➜ Explicit dependency on target 'SpecterCore' in project 'SpecterCore'
+Target 'SpecterCore-product' in project 'SpecterCore'
+➜ Explicit dependency on target 'SpecterCore' in project 'SpecterCore'
+Target 'SpecterCoreTests-product' in project 'SpecterCore'
+➜ Explicit dependency on target 'SpecterCore' in project 'SpecterCore'
+Target 'SpecterCore' in project 'SpecterCore' (no dependencies)

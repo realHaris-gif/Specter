@@ -1,0 +1,2 @@
+- WHEN calibration fails THE SYSTEM SHALL explain which requirement failed in plain words[cite: 14].
+- WHEN Reduce Motion is on THE SYSTEM SHALL replace pulsing with static intensity[cite: 14].

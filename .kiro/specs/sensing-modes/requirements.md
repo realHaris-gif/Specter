@@ -1,0 +1,2 @@
+- WHEN the target moves less than the baseline multiplier THE SYSTEM SHALL not alert[cite: 14].
+- WHEN band energy at 0.1-0.7 Hz stays below 25% of baseline for 8 s THE SYSTEM SHALL show 'Breath pause' and never 'apnea'[cite: 14].

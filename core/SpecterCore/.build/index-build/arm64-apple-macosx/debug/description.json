@@ -1,0 +1,652 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.xctest/Contents/MacOS/SpecterCorePackageTests",
+      "coverageBinaryPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.xctest/Contents/MacOS/SpecterCorePackageTests",
+      "packagePath" : "/Users/mackbook/specter/core/SpecterCore",
+      "productName" : "SpecterCorePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SpecterCore-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/sources",
+      "importPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/FFT.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/SignalPipeline.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SpecterCore",
+      "moduleOutputPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCore.swiftmodule",
+      "objects" : [
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ChannelEstimator.swift.o",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/Chirp.swift.o",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/ClutterFilter.swift.o",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/FFT.swift.o",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/SignalPipeline.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/include/SpecterCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "spectercore"
+      ],
+      "outputFileMapPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift",
+        "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift",
+        "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift",
+        "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/FFT.swift",
+        "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/SignalPipeline.swift"
+      ],
+      "tempsPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SpecterCorePackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/sources",
+      "importPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SpecterCorePackageTests",
+      "moduleOutputPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCorePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/include/SpecterCorePackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "spectercore"
+      ],
+      "outputFileMapPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCorePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SpecterCoreTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/sources",
+      "importPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/GoldenVectorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SpecterCoreTests",
+      "moduleOutputPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/GoldenVectorTests.swift.o",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/SpecterCoreTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "spectercore"
+      ],
+      "outputFileMapPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules/SpecterCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/GoldenVectorTests.swift",
+        "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift"
+      ],
+      "tempsPath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "SpecterCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SpecterCore",
+      "-package-name",
+      "spectercore",
+      "-c",
+      "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift",
+      "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift",
+      "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift",
+      "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/FFT.swift",
+      "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/SignalPipeline.swift",
+      "-I",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/include/SpecterCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "spectercore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SpecterCorePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SpecterCorePackageTests",
+      "-package-name",
+      "spectercore",
+      "-c",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/include/SpecterCorePackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "spectercore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SpecterCoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SpecterCoreTests",
+      "-package-name",
+      "spectercore",
+      "-c",
+      "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/GoldenVectorTests.swift",
+      "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift",
+      "-I",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "spectercore",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "SpecterCore" : [
+
+    ],
+    "SpecterCorePackageTests" : [
+      "SpecterCoreTests",
+      "SpecterCore"
+    ],
+    "SpecterCoreTests" : [
+      "SpecterCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : [
+      {
+
+      }
+    ]
+  },
+  "writeCommands" : {
+    "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/FFT.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/SignalPipeline.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCore.build/sources"
+    },
+    "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCorePackageTests.build/sources"
+    },
+    "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/GoldenVectorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/SpecterCoreTests.build/sources"
+    },
+    "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/mackbook/specter/core/SpecterCore/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+module SpecterCore {
+header "SpecterCore-Swift.h"
+export *
+}

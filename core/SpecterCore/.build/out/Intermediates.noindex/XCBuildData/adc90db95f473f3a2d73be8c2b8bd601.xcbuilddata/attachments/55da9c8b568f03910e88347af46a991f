@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests-primary.swiftdeps"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Tests/SpecterCoreTests/SpecterCoreTests.swift" : {
+    "const-values" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.swiftconstvalues",
+    "dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.d",
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.dia",
+    "index-unit-output-path" : "/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.o",
+    "llvm-bc" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.bc",
+    "object" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.o",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests.swiftdeps",
+    "swiftmodule" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCoreTests-p.build/Objects-normal/arm64/SpecterCoreTests~partial.swiftmodule"
+  }
+}

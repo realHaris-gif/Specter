@@ -1,0 +1,2 @@
+- WHEN a frame of N samples arrives THE SYSTEM SHALL return a channel response whose range index is unchanged under input gain scaling[cite: 14].
+- WHEN the input is circularly shifted by k samples THE SYSTEM SHALL shift the range profile by k bins[cite: 14].

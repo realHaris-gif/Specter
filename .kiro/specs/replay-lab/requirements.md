@@ -1,0 +1,2 @@
+- WHEN the page loads THE SYSTEM SHALL start playing a bundled session without user input[cite: 14].
+- WHEN the user scrubs THE SYSTEM SHALL update waterfall and breath plot within one frame[cite: 14].

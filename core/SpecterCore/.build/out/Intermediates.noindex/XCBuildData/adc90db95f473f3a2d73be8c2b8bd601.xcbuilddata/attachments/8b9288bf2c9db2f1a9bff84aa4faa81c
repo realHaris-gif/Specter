@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/SpecterCore-primary.dia",
+    "emit-module-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/SpecterCore-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/SpecterCore-primary-emit-module.dia",
+    "pch" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/SpecterCore-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/SpecterCore-primary.swiftdeps"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ChannelEstimator.swift" : {
+    "const-values" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.swiftconstvalues",
+    "dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.d",
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.dia",
+    "index-unit-output-path" : "/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.o",
+    "llvm-bc" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.bc",
+    "object" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.o",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator.swiftdeps",
+    "swiftmodule" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ChannelEstimator~partial.swiftmodule"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/Chirp.swift" : {
+    "const-values" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.swiftconstvalues",
+    "dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.d",
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.dia",
+    "index-unit-output-path" : "/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.o",
+    "llvm-bc" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.bc",
+    "object" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.o",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp.swiftdeps",
+    "swiftmodule" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/Chirp~partial.swiftmodule"
+  },
+  "/Users/mackbook/specter/core/SpecterCore/Sources/SpecterCore/ClutterFilter.swift" : {
+    "const-values" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.swiftconstvalues",
+    "dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.d",
+    "diagnostics" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.dia",
+    "index-unit-output-path" : "/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.o",
+    "llvm-bc" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.bc",
+    "object" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.o",
+    "swift-dependencies" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter.swiftdeps",
+    "swiftmodule" : "/Users/mackbook/specter/core/SpecterCore/.build/out/Intermediates.noindex/SpecterCore.build/Debug/SpecterCore-t.build/Objects-normal/arm64/ClutterFilter~partial.swiftmodule"
+  }
+}

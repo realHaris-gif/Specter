@@ -1,0 +1,1 @@
+Dark theme palette (Void #07070B, Smoke #14151F, Spectral Teal #2EE6B8, Ember Orange #FF7A1A, Bone #F4F1EA). Typography: SF Pro (body), New York (titles), SF Mono (readouts). Honour Reduce Motion settings[cite: 14, 17].
