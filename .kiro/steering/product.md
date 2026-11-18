@@ -1,1 +1,3 @@
-Specter is a camera-free, on-device sonar sensing app for iPhone. Includes Costume Contest skin (Séance) plus Breath Watch skin. Claims policy: wellness awareness only; never use terms like "diagnose", "apnea detection", or "medical"[cite: 5, 14].
+# Specter Steering
+
+Contactless ultrasonic sonar breathing monitor for iPhone using FMCW ultrasound (18-21 kHz).

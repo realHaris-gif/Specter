@@ -1,2 +1,5 @@
-- WHEN the session starts THE SYSTEM SHALL configure 48 kHz measurement-mode audio or report why it cannot.
-- WHILE running THE SYSTEM SHALL never allocate in the audio render callback.
+# Audio Engine Specs
+
+- Sample rate: 48 kHz
+- Mode: AVFS Measurement
+- Buffer: RingBuffer implementation
